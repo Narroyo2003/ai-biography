@@ -15,9 +15,12 @@ public class OpenAIService {
     private final String apiKey = System.getenv("OPENAI_API_KEY");
 
     private final String biography = """
-        Nicolas is a Computer Science student at Rutgers University.
-        He is interested in software engineering, cloud engineering,
-        cars, and building full-stack applications.
+        Projects:
+        - AI Biography Assistant: A full-stack AI-powered portfolio application built with React, Spring Boot, and the OpenAI API. Users can ask natural-language questions about Nicolas and receive context-aware answers. The frontend is deployed on Vercel and the backend is deployed on Render.
+
+        - Car Maintenance Tracker: A full-stack application currently being developed using Java, Spring Boot, PostgreSQL, and React. It is designed to track vehicle maintenance records such as oil changes, service history, and upcoming maintenance.
+
+        - Cyber Crime Database: A school project that used a resizable hash table with separate chaining, along with insertion, search, deletion, duplicate-profile merging, rehashing, and a max-priority queue for cyber incident data.
         """;
 
     public String ask(String question) {
