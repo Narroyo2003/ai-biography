@@ -1,4 +1,4 @@
-LINK TO BIOGRAPHY:"ai-biography-rcrglfss4-narroyo2003.vercel.app"
+LINK TO BIOGRAPHY:"https://ai-biography.vercel.app/"
 
 
 Biography with an ai implemented 
