@@ -1,4 +1,4 @@
-LINK TO BIOGRAPHY:"
+LINK TO BIOGRAPHY:"ai-biography-rcrglfss4-narroyo2003.vercel.app"
 
 
 Biography with an ai implemented 
@@ -13,4 +13,4 @@ The site includes:
 - GitHub and LinkedIn links
 - AI-powered Q&A assistant
 
-- 
+  
