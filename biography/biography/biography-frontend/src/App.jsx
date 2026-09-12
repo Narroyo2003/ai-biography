@@ -13,7 +13,7 @@ function App() {
     setAnswer("");
 
     try {
-      const response = await fetch("http://localhost:8080/api/ask", {
+      const response = await fetch("https://biography-w9r1.onrender.com/api/ask", {
         method: "POST",
         headers: {
           "Content-Type": "text/plain",
